@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Buddy",
+  "description": "Discover Your Skills. Build Your Future. An AI-powered career guidance platform for college students with Resume Builder, Interview Generator, Answer Improver, Career Guidance, Skill Roadmap, and Cover Letter Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
